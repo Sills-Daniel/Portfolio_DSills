@@ -1,0 +1,77 @@
+// =============================================================================
+// CUSTOM CSS OVERRIDES
+// =============================================================================
+// These rules apply AFTER the Minimal Mistakes theme import, so they win
+// on specificity. Use BEM-style selectors that match the theme's HTML.
+// Inspect elements in the browser to find the right class names.
+
+// -----------------------------------------------------------------------------
+// Author profile sidebar
+// -----------------------------------------------------------------------------
+
+.author__avatar img {
+  border-radius: 8px;  // square-ish avatar instead of full circle
+}
+
+// -----------------------------------------------------------------------------
+// Code blocks
+// -----------------------------------------------------------------------------
+
+// Tighter padding and a slightly more distinct background
+div.highlighter-rouge,
+figure.highlight {
+  border-radius: 6px;
+  margin-bottom: 1.5em;
+}
+
+// Inline code: subtle highlight without being jarring on dark backgrounds
+code.highlighter-rouge {
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+// -----------------------------------------------------------------------------
+// Navigation
+// -----------------------------------------------------------------------------
+
+// Slightly larger tap targets on mobile
+.greedy-nav a {
+  padding: 0.75rem 1rem;
+}
+
+// -----------------------------------------------------------------------------
+// Project grid (collection layout)
+// -----------------------------------------------------------------------------
+
+// Consistent card height in the projects grid
+.archive__item-teaser {
+  height: 200px;
+  object-fit: cover;
+}
+
+// -----------------------------------------------------------------------------
+// Masthead / site header
+// -----------------------------------------------------------------------------
+
+// Subtle border under the masthead to separate from page content
+.masthead {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+// -----------------------------------------------------------------------------
+// Footer
+// -----------------------------------------------------------------------------
+
+.page__footer {
+  margin-top: 3em;
+}
+
+// -----------------------------------------------------------------------------
+// Typography tweaks
+// -----------------------------------------------------------------------------
+
+// Slightly more breathing room between page sections
+.page__content h2 {
+  margin-top: 2em;
+}

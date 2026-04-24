@@ -82,7 +82,7 @@ No custom domain yet. When purchased:
 |-------|--------|-------------|
 | 1 | **Complete** | Skeleton: config, theme, homepage, brainstorm scaffold |
 | 2 | **Complete** | Pages, nav, templates, sample draft/project, workflow docs |
-| 3 | Not started | Assets, SCSS, resume, published works |
+| 3 | **In Progress** | Assets directory structure and SCSS done; resume PDF pending |
 | 4 | Not started | Claude workflow polish: ADRs, session template refinement |
 
 ## End-of-Session Protocol

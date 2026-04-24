@@ -10,19 +10,15 @@ classes: wide
 
 ## Hi, I'm Daniel Sills
 
-[One paragraph introduction — who you are, where you're based, what you do.
-Example: "I'm an electrical and computer engineer based in Louisville, KY,
-focused on [your area]. I work on [current role or focus area]." ]
+I'm a Research and Development Engineer with hands-on experience in robotic, industrial, and IoT automation, implementing hardware and software solutions across embedded, edge computing, and cloud systems. I am also a published researcher in the field of advanced manufacturing methods, with a focus on leveraging AI for process improvement and in-situ optimization.
 
 ## What I Do
 
-[Two to three sentences on your current professional focus.
-What problems do you work on? What do you build or research?]
+I am currently a R&D Engineer working on IoT and cloud computing devices. Leveraging AI for data aggregation and interpretation.
 
 ## Background
 
-[Brief professional or academic history. 2-4 bullet points or a short paragraph.
-Where did you study? What have you shipped or published?]
+I am a graduate of the University of Louisville with my Bachelor and Master of Science degrees in Electrical Engineering. In my masters degree I had the privelage of doing research with the Louisville Automation and Robotics Research institute where I was able to push the development of the NeXus System, a mutli-robotic additive manufacturing system capable of additively manufacturing PCBs. During my time with this lab I authored 2 papers and contributed to more.
 
 ## What You'll Find Here
 

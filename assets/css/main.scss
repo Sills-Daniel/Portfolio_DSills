@@ -1,0 +1,17 @@
+---
+# Jekyll requires front matter to process this file
+---
+
+@charset "utf-8";
+
+// Step 1: Variable overrides — must come BEFORE the skin/theme imports
+// so that Minimal Mistakes' !default values are superseded.
+@import "custom/variables";
+
+// Step 2: Minimal Mistakes skin + core styles
+@import "minimal-mistakes/skins/dark";
+@import "minimal-mistakes";
+
+// Step 3: Custom overrides — must come AFTER the theme import
+// so these rules win the specificity battle.
+@import "custom/overrides";
