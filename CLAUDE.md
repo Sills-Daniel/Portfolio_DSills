@@ -81,7 +81,7 @@ No custom domain yet. When purchased:
 | Phase | Status | Description |
 |-------|--------|-------------|
 | 1 | **Complete** | Skeleton: config, theme, homepage, brainstorm scaffold |
-| 2 | Not started | Layouts, templates, sample post and project |
+| 2 | **Complete** | Pages, nav, templates, sample draft/project, workflow docs |
 | 3 | Not started | Assets, SCSS, resume, published works |
 | 4 | Not started | Claude workflow polish: ADRs, session template refinement |
 

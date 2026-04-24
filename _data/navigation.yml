@@ -1,0 +1,10 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  # Uncomment when resume is added in Phase 3:
+  # - title: "Resume"
+  #   url: /assets/docs/resume.pdf
