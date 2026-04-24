@@ -14,7 +14,7 @@ url                      : ""
 baseurl                  : ""
 
 # Update to your actual GitHub username/repo when known.
-repository               : "YOUR-GITHUB-USERNAME/Portfolio"
+repository               : "Sills-Daniel/Portfolio-DSills"
 
 # =============================================================================
 # THEME
@@ -31,22 +31,22 @@ author:
   name    : "Daniel Sills"
   avatar  : "/assets/images/profile/avatar.jpg"  # add headshot in Phase 3
   bio     : ""  # short bio — fill in before launch
-  location: ""
-  email   : ""  # optional — use contact form instead of exposing email
+  location: "Louisville, Ky"
+  email   : "dtsills10@gmail.com"  # optional — use contact form instead of exposing email
   links:
     - label : "GitHub"
       icon  : "fab fa-fw fa-github"
-      url   : "https://github.com/YOUR-GITHUB-USERNAME"
+      url   : "https://github.com/Sills-Daniel"
     - label : "LinkedIn"
       icon  : "fab fa-fw fa-linkedin"
-      url   : ""  # add LinkedIn URL
+      url   : "https://www.linkedin.com/in/daniel-sills-ms-ece"
 
 # =============================================================================
 # READING / DISPLAY
 # =============================================================================
 
 locale                   : "en-US"
-timezone                 : "America/Chicago"  # adjust to your timezone
+timezone                 : "America/New_York"
 words_per_minute         : 200
 atom_feed:
   path                   : # blank = default /feed.xml
