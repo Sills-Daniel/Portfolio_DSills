@@ -30,7 +30,7 @@ minimal_mistakes_skin    : "dark"
 author:
   name    : "Daniel Sills"
   avatar  : "/assets/images/profile/avatar.jpg"  # add headshot in Phase 3
-  bio     : ""  # short bio — fill in before launch
+  bio     : "R&D Engineer · ECE MS · Advanced Manufacturing &amp; AI Research"
   location: "Louisville, Ky"
   email   : "dtsills10@gmail.com"  # optional — use contact form instead of exposing email
   links:
@@ -40,6 +40,12 @@ author:
     - label : "LinkedIn"
       icon  : "fab fa-fw fa-linkedin"
       url   : "https://www.linkedin.com/in/daniel-sills-ms-ece"
+    - label : "Google Scholar"
+      icon  : "fas fa-fw fa-graduation-cap"
+      url   : "https://scholar.google.com/citations?user=xLFRTm0AAAAJ&hl=en"
+    - label : "Upwork"
+      icon  : "fas fa-fw fa-briefcase"
+      url   : "https://www.upwork.com/freelancers/danielsills"
 
 # =============================================================================
 # READING / DISPLAY

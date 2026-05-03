@@ -1,0 +1,43 @@
+- title: "Characterization of Aerosol Printing Conductive Traces and Custom Strain Gauges on PCB"
+  authors: "D Ratnayake, D Jackson, D Sills, A Sherehiy, DO Popa, K Walsh"
+  venue: "International Manufacturing Science and Engineering Conference (MSEC)"
+  year: 2025
+  role: "Co-author"
+
+- title: "Rapid Prototyping of Multiscale Flexible Printed Circuit Boards with NeXus, a Robotic Additive Manufacturing System"
+  authors: "DT Sills, A Sherehiy, R Zhang, D Jackson, H Reynolds, D Ratnayake, et al."
+  venue: "Journal of Micro and Nano Science and Engineering"
+  volume: "Vol. 13(1), 011002"
+  year: 2025
+  citations: 3
+  role: "First Author"
+
+- title: "Aerosol Jet and Inkjet Printing Methods for Die-Level Packaging of Custom MEMS Devices"
+  authors: "A Sherehiy, D Jackson, M Sassa, D Sills, D Ratnayake, R Zhang, Z Yang, et al."
+  venue: "Journal of Micro and Nano Science and Engineering"
+  volume: "Vol. 13(1), 011003"
+  year: 2025
+  citations: 3
+  role: "Co-author"
+
+- title: "Automated Additive Manufacturing Process for Multilayer Flexible Printed Circuit Board With SMD Components"
+  authors: "D Sills, R Zhang, A Sherehiy, D Jackson, H Reynolds, D Ratnayake, et al."
+  venue: "International Manufacturing Science and Engineering Conference (MSEC)"
+  year: 2024
+  role: "First Author"
+
+- title: "Aerosol Jet and Inkjet Printing of Electrical Interconnects for Die Level Packaging of Custom MEMS Devices"
+  authors: "A Sherehiy, M Sassa, D Jackson, D Sills, D Ratnayake, R Zhang, Z Yang, et al."
+  venue: "International Manufacturing Science and Engineering Conference (MSEC)"
+  year: 2024
+  citations: 1
+  role: "Co-author"
+
+- title: "Design, Fabrication, and Characterization of Inkjet-Printed Organic Piezoresistive Tactile Sensor on Flexible Substrate"
+  authors: "OO Olowo, B Harris, D Sills, R Zhang, A Sherehiy, A Tofangchi, D Wei, et al."
+  venue: "Sensors"
+  volume: "Vol. 23(19), 8280"
+  year: 2023
+  citations: 16
+  role: "Co-author"
+  url: "https://www.mdpi.com/1424-8220/23/19/8280"

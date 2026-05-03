@@ -26,6 +26,7 @@ This site is where I document projects I'm working on, share technical
 writing, and occasionally reflect on things I've learned.
 
 - **Projects** — things I've built, researched, or contributed to
+- **Publications** — peer-reviewed research in advanced manufacturing
 - **Blog** — write-ups, tutorials, and notes
 
 ## Get in Touch
